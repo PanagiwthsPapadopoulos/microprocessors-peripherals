@@ -85,3 +85,5 @@ End of sequence. Waiting for new number…
 ├── led.c/.h           # LED control logic
 ├── button.c/.h        # Button interrupt logic
 ```
+---
+📌 Developed for the "Microprocessors & Peripherals" 8th semester course, AUTh, Spring 2025. 🎓
